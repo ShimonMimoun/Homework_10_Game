@@ -13,6 +13,18 @@
 	
 	D. Add your own lighting.
   
+## Screen of game 
+
+![1](https://github.com/ShimonMimoun/Homework_10_Game/blob/master/Picture/1.png)
+
+![2](https://github.com/ShimonMimoun/Homework_10_Game/blob/master/Picture/2.png)
+
+![3](https://github.com/ShimonMimoun/Homework_10_Game/blob/master/Picture/3.png)
+
+
+- [Play game]()
+
+
 ## Use
 
   
@@ -24,18 +36,6 @@
 - [Erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780)
 
   
-## Screen of game 
-
-![1](https://github.com/ShimonMimoun/Homework_10_Game/blob/master/Picture/1.png)
-
-![2](https://github.com/ShimonMimoun/Homework_10_Game/blob/master/Picture/2.png)
-
-![3](https://github.com/ShimonMimoun/Homework_10_Game/blob/master/Picture/3.png)
-
-
-## Play -->Itch
-
-
 
 ### Online courses:
 
