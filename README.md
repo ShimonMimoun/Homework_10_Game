@@ -11,7 +11,9 @@
 1. Build a new scene:
 
 	A. Build your own surface using the tools terrain.
+	
 	B. Add a structure to it, in ProBuilder, build a structure to match the surface you created.third. Add a cool skybox.
+	
 	D. Add your own lighting.
   
 ## Use
