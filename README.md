@@ -22,7 +22,7 @@
 ![3](https://github.com/ShimonMimoun/Homework_10_Game/blob/master/Picture/3.png)
 
 
-- [Play game]()
+- [Play game](https://shimon1705.itch.io/homework10)
 
 
 ## Use
